@@ -12,6 +12,7 @@ A very basic script that imports the selected shots from my Nikon camera to my c
                  Eg: 123* for DSC_0123.JPG and DSC_0123.NEF
     - source_path : Folder containing originals
     - dest_path   : Destination folder
+```
 
 ## Compatibility
 
